@@ -3,5 +3,4 @@ node_js:
   - 'v12.4.0'
 install: 
   - npm install
-script:
- - log
+script: true
